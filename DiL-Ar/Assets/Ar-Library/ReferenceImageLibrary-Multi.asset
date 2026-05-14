@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary-Multi
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5194474396680502922
+  m_GuidHigh: 980224307046365087
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5533460404589752199
+      m_GuidHigh: 4216114356091805369
+    m_SerializedTextureGuid:
+      m_GuidLow: 9220230249139808799
+      m_GuidHigh: 15539511374035376888
+    m_Size: {x: 0.14999999, y: 0.09025507}
+    m_SpecifySize: 1
+    m_Name: DiL-Cafeteria
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5092080831621669280
+      m_GuidHigh: 6466431109241289125
+    m_SerializedTextureGuid:
+      m_GuidLow: 15191892751787289712
+      m_GuidHigh: 4980164052706383242
+    m_Size: {x: 0.15, y: 0.075}
+    m_SpecifySize: 1
+    m_Name: AR-Dil-Logo
+    m_Texture: {fileID: 0}
